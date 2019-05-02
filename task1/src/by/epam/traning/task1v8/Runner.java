@@ -1,4 +1,4 @@
-package by.epam.trining.task1v8;
+package by.epam.traning.task1v8;
 
 /**
  */
